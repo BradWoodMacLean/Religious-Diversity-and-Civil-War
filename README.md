@@ -1,5 +1,5 @@
 # Religious-Diversity-and-Civil-War
-<h>POL304 Project </h>
+<h>School Project </h>
 <p>This projects uses a cross-sectional design to test the impact of religious diversity on civil war onset.</p>
 <p>Datasets:</p>
 <p>Sarkees, Meredith Reid and Frank Wayman (2010). Resort to War: 1816 – 2007. Washington DC: CQ Press.</p>
